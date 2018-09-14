@@ -23,7 +23,7 @@
     "@angular/pwa": "^0.7.5",
     "@angular/router": "^6.1.7",
     "@angular/service-worker": "^6.1.7",
-    "bootstrap": "3.3.6",
+    "bootstrap": "3.3.7",
     "core-js": "^2.5.4",
     "jquery": "1.12",
     "jquery-dotdotdot": "1.8.2",
