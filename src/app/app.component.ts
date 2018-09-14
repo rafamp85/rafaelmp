@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-pwa';
+  public title:string;
+
+  constructor(){
+    this.title = "Rafael Morales WEB";
+  }
 }

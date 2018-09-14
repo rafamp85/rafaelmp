@@ -1,0 +1,20 @@
+<div class="col-lg-8 col-lg-offset-2" [@fadeIn]>
+  <div class="jumbotron">
+    <h1>{{title}}</h1>
+    <p>{{subtitle}}</p>
+
+    <p>
+      <a class="btn btn-primary btn-lg" role="button" [routerLink]="['/register']">
+        Registro
+      </a>
+      <a class="btn btn-success btn-lg" role="button" [routerLink]="['/login']">
+        Login
+      </a>
+      <a class="btn btn-info btn-lg" role="button" [routerLink]="['/about']">
+        Acerca de mi
+      </a>
+    </p>
+
+  </div>
+</div>
+<div class="clearfix"></div>
