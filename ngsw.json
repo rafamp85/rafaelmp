@@ -1,19 +1,19 @@
 {
   "configVersion": 1,
-  "index": "/index.html",
+  "index": "https://rafamp85.github.io/my-page/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.88e936b2b956cb551d20.js",
-        "/polyfills.7a0e6866a34e280f48e7.js",
-        "/runtime.a66f828dca56eeb90e02.js",
-        "/scripts.759a1e45f2848d7a304b.js",
-        "/styles.fb65e0eb0bf1f854b267.css"
+        "https://rafamp85.github.io/my-page/favicon.ico",
+        "https://rafamp85.github.io/my-page/index.html",
+        "https://rafamp85.github.io/my-page/main.8ea06dd5f46c92965da4.js",
+        "https://rafamp85.github.io/my-page/polyfills.7a0e6866a34e280f48e7.js",
+        "https://rafamp85.github.io/my-page/runtime.a66f828dca56eeb90e02.js",
+        "https://rafamp85.github.io/my-page/scripts.759a1e45f2848d7a304b.js",
+        "https://rafamp85.github.io/my-page/styles.5def4e72629f217d43a0.css"
       ],
       "patterns": []
     },
@@ -22,35 +22,35 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "https://rafamp85.github.io/my-page/assets/icons/icon-128x128.png",
+        "https://rafamp85.github.io/my-page/assets/icons/icon-144x144.png",
+        "https://rafamp85.github.io/my-page/assets/icons/icon-152x152.png",
+        "https://rafamp85.github.io/my-page/assets/icons/icon-192x192.png",
+        "https://rafamp85.github.io/my-page/assets/icons/icon-384x384.png",
+        "https://rafamp85.github.io/my-page/assets/icons/icon-512x512.png",
+        "https://rafamp85.github.io/my-page/assets/icons/icon-72x72.png",
+        "https://rafamp85.github.io/my-page/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "20953b1451e4ff98ad4970d923124300c0786997",
-    "/main.88e936b2b956cb551d20.js": "90c7d6e7c529148923cdfa906e6c310f336ede56",
-    "/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
-    "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "/scripts.759a1e45f2848d7a304b.js": "cedae5a92c0a5a763370b4da96928fb9e174eff6",
-    "/styles.fb65e0eb0bf1f854b267.css": "8884ebed77073fd818ad27d96d7d63862d617d19"
+    "https://rafamp85.github.io/my-page/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://rafamp85.github.io/my-page/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://rafamp85.github.io/my-page/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://rafamp85.github.io/my-page/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://rafamp85.github.io/my-page/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://rafamp85.github.io/my-page/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://rafamp85.github.io/my-page/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://rafamp85.github.io/my-page/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://rafamp85.github.io/my-page/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://rafamp85.github.io/my-page/index.html": "41179f16576f33f01020689f933887f994d56b39",
+    "https://rafamp85.github.io/my-page/main.8ea06dd5f46c92965da4.js": "4936f9e0e0f5874166ab39529e268175ff0ec236",
+    "https://rafamp85.github.io/my-page/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
+    "https://rafamp85.github.io/my-page/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "https://rafamp85.github.io/my-page/scripts.759a1e45f2848d7a304b.js": "cedae5a92c0a5a763370b4da96928fb9e174eff6",
+    "https://rafamp85.github.io/my-page/styles.5def4e72629f217d43a0.css": "f605de0c45c76a2eac71f1b58335ca1fdc816542"
   },
   "navigationUrls": [
     {
