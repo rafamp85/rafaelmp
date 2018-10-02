@@ -4,6 +4,7 @@ import { fadeIn } from '../animation';
 @Component({
   selector: 'videos',
   templateUrl: './videos.component.html',
+  styleUrls: ['./videos.css'],
   animations: [fadeIn]
 })
 
